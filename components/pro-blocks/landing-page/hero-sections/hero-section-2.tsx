@@ -21,12 +21,11 @@ export function HeroSection2() {
             <Tagline>Campus Expo</Tagline>
             {/* Main Heading */}
             <h1 id="hero-heading" className="heading-xl">
-              Never forget what was said in a meeting again
+              Rasakan Pengalaman Kuliah di Kampus Impianmu
             </h1>
             {/* Description */}
             <p className="text-muted-foreground text-base lg:text-lg">
-              AI that joins, transcribes, and transforms your meetings into
-              structured knowledge
+              Campus Expo 2026 hadir di 6 kota Jawa Tengah & DIY — jembatan antara siswa, orang tua, dan kampus terbaik.
             </p>
           </div>
 
@@ -37,7 +36,7 @@ export function HeroSection2() {
                 <Check className="text-primary h-5 w-5" />
               </div>
               <span className="text-card-foreground text-base leading-6 font-medium">
-                Deal progress tracking
+                +500 Universitas Terbaik
               </span>
             </div>
 
@@ -46,7 +45,7 @@ export function HeroSection2() {
                 <Check className="text-primary h-5 w-5" />
               </div>
               <span className="text-card-foreground text-base leading-6 font-medium">
-                Customer sentiment analysis
+                +200 Program Studi
               </span>
             </div>
 
