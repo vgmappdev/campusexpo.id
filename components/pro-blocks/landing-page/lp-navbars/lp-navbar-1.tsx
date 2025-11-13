@@ -7,10 +7,10 @@ import { useState } from "react";
 import Link from "next/link";
 
 const MENU_ITEMS = [
-  { label: "Features", href: "#features" },
-  { label: "How it works", href: "#how-it-works" },
-  { label: "Docs", href: "https://www.shadcndesign.com/pro-blocks" },
-  { label: "Pricing", href: "#pricing" },
+  { label: "Benefit", href: "#benefit" },
+  { label: "Konsep Acara", href: "#konsep-acara" },
+  { label: "Skala Acara", href: "#skala-acara" },
+  { label: "Partisipasi", href: "#partisipasi" },
   { label: "FAQ", href: "#faq" },
 ] as const;
 
@@ -55,8 +55,8 @@ export function LpNavbar1() {
         {/* Desktop Navigation */}
         <div className="hidden w-full flex-row justify-end gap-5 md:flex">
           <NavMenuItems />
-          <Link href="#pricing">
-            <Button>Try for free</Button>
+          <Link href="#partisipasi">
+            <Button>Daftar Event</Button>
           </Link>
         </div>
 

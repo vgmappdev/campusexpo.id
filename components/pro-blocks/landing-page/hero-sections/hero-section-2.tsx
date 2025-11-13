@@ -11,7 +11,7 @@ export function HeroSection2() {
   return (
     <section
       className="bg-secondary section-padding-y"
-      aria-labelledby="hero-heading"
+      aria-labelledby="hero-heading" 
     >
       <div className="container-padding-x container mx-auto flex flex-col items-center gap-12 lg:flex-row lg:gap-16">
         {/* Left Column */}

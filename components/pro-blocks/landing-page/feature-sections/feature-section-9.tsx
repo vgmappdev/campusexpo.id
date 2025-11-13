@@ -7,7 +7,7 @@ export function FeatureSection9() {
   return (
     <section
       className="bg-secondary section-padding-y border-b"
-      id="how-it-works"
+      id="konsep-acara"
     >
       <div className="container-padding-x container mx-auto flex flex-col gap-10 md:gap-12">
         <div className="section-title-gap-lg mx-auto flex max-w-xl flex-col items-center text-center">

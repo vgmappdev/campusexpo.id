@@ -5,7 +5,8 @@ import { Tagline } from "@/components/pro-blocks/landing-page/tagline";
 
 export function StatsSection4() {
   return (
-    <section className="bg-background section-padding-y border-b">
+    <section className="bg-background section-padding-y border-b"
+      id="skala-acara">
       <div className="container-padding-x container mx-auto">
         <div className="flex flex-col gap-10 md:gap-12">
           <div className="section-title-gap-lg mx-auto flex max-w-xl flex-col items-center text-center">

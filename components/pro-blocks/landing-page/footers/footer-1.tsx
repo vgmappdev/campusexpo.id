@@ -31,7 +31,7 @@ export function Footer1() {
               Beranda
             </Link>
             <Link
-              href="#features"
+              href="#benefit"
               className="text-muted-foreground hover:text-foreground transition-colors"
             >
               Benefit
