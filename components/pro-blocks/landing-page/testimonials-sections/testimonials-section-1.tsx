@@ -4,13 +4,10 @@ import { Avatar, AvatarImage } from "@/components/ui/avatar";
 
 interface TestimonialsSection1Props {
   quote?: string;
-  authorName?: string;
-  authorRole?: string;
-  avatarSrc?: string;
 }
 
 export default function TestimonialsSection1({
-  quote = "MindSpace is like having a photographic memory for every meeting. We reduced the follow-up emails by 80%.",
+  quote = "Campus Expo adalah roadshow pameran pendidikan di 6 kota (Jogja, Solo, Semarang, Purwokerto, Tegal, Pekalongan) yang mempertemukan ribuan siswa SMA/SMK dengan >100 universitas nasional dan internasional.",
   authorName = "David Park",
   authorRole = "Engineering Manager at TechCorp",
   avatarSrc = "/DavidPark.png",

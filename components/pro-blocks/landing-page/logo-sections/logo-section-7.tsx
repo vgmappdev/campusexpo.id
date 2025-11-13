@@ -3,12 +3,15 @@
 import Image from "next/image"
 
 const logosData = [
-  { id: 1, src: "/logo-kampus/ugm.png" },
-  { id: 2, src: "/logo-kampus/ugm.png" },
-  { id: 3, src: "/logo-kampus/ugm.png" },
-  { id: 4, src: "/logo-kampus/ugm.png" },
-  { id: 5, src: "/logo-kampus/ugm.png" },
-  { id: 6, src: "/logo-kampus/ugm.png" },
+  { id: 1, src: "/logo-kampus/logo-itb.png" },
+  { id: 2, src: "/logo-kampus/logo-itsn.png" },
+  { id: 3, src: "/logo-kampus/logo-ugm.png" },
+  { id: 4, src: "/logo-kampus/logo-uii.png" },
+  { id: 5, src: "/logo-kampus/logo-unair.png" },
+  { id: 6, src: "/logo-kampus/logo-unibra.png" },
+  { id: 7, src: "/logo-kampus/logo-unpad.png" },
+  { id: 8, src: "/logo-kampus/logo-uny.png" },
+  { id: 9, src: "/logo-kampus/logo-usm.png" },
 ]
 
 export function LogoSection7() {

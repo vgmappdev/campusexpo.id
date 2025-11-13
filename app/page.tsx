@@ -15,21 +15,11 @@ export default function Page() {
       <LpNavbar1 />
       <HeroSection2 />
       <LogoSection7 />
-      <TestimonialsSection1
-        quote="MindSpace is like having a photographic memory for every meeting. We reduced the follow-up emails by 80%."
-        authorName="David Park"
-        authorRole="Engineering Manager at TechCorp"
-        avatarSrc="/DavidPark.png"
-      />
+      <TestimonialsSection1 />
       <BentoGrid6 />
       <FeatureSection9 />
       <StatsSection4 />
-      <TestimonialsSection1
-        quote="At TechStar, 43% of meeting content was forgotten within 24 hours. Now, the AI summaries are better than my own notes!"
-        authorName="Monica Kurt"
-        authorRole="Project Manager at TechStar"
-        avatarSrc="/MonicaKurt.png"
-      />
+      <TestimonialsSection1 />
       <PricingSection3 />
       <FaqSection2 />
       <Footer1 />
